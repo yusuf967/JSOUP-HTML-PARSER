@@ -11,7 +11,7 @@ import org.jsoup.select.Elements;
 
 public class vatan {
 
-    static int sayac = 0;
+    static int sayac = 1;
 
     public void vatanBaglanEkranKart(String url) {
         for (int j = 1; j < 8; j++) {
